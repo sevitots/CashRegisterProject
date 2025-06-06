@@ -1,0 +1,16 @@
+Date/Time : 2025-06-06 22:50:57
+Cashier : severino07
+Items : 
+ - 3 x Crispy Pata = 450.0
+ - 3 x Fries = 180.0
+ - 5 x Coke = 100.0
+TOTAL    : 730.0
+--------------------------------------------------
+Date/Time : 2025-06-06 22:52:35
+Cashier : severino07
+Items : 
+ - 2 x Burger = 160.0
+ - 2 x Sisig = 180.0
+ - 4 x Coke = 80.0
+TOTAL    : 420.0
+--------------------------------------------------
